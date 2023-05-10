@@ -11,10 +11,10 @@ margin:0px;
 .main{display:flex;
 }
 
-.left{flex:70%;
+.left{flex:45%;
 }
 
-.right{flex:30%;
+.right{flex:55%;
 background-color:#14140d;
 }
 
@@ -89,4 +89,17 @@ background-color:#020317;}
 
 .image-main{
     padding-top: 15px;
+    padding-left:15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+
+.about-La{
+
+    padding-top: 15px;
+    padding-bottom: 20px;
+    margin-left:20px;
+    margin-right:20px;
+
 }
